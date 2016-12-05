@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">"La fourchette"</string>
+
+    <string name="action_share">Partager</string>
+    <string name="action_fav">Favoris bientôt disponible</string>
+    <string name="action_next_resto">Changer de resto</string>
+    <string name="dialog_title_share">Partager un bon resto</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_infos">Infos pratiques</string>
+    <string name="title_description">Description</string>
+    <string name="speciality">Restaurant %s</string>
+    <string name="transport">Transport</string>
+    <string name="hours">Horaires d\'ouverture</string>
+
+    <string name="error_loading">Erreur pendant le chargement</string>
+</resources>
